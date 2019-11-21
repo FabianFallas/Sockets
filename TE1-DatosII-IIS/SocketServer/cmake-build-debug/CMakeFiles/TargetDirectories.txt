@@ -1,0 +1,3 @@
+/home/fallas/Descargas/Aplicacion/TE1-DatosII-IIS/SocketServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fallas/Descargas/Aplicacion/TE1-DatosII-IIS/SocketServer/cmake-build-debug/CMakeFiles/SocketServer.dir
+/home/fallas/Descargas/Aplicacion/TE1-DatosII-IIS/SocketServer/cmake-build-debug/CMakeFiles/edit_cache.dir
